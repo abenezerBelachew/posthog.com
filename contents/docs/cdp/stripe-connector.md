@@ -1,5 +1,5 @@
 ---
-title: Stripe Connector
+title: Stripe
 github: https://github.com/posthog/stripe-plugin
 thumbnail: ../../cdp/thumbnails/stripe-connector.png
 tags:
@@ -8,7 +8,7 @@ tags:
 
 > This app is in private beta. To join the beta, please [request access](https://app.posthog.com/feature_flags#supportModal=support%3Aapps).
 
-Stripe is a payments platform used by millions of companies. The Stripe Connector enables you to get information about revenue and payments from Stripe, into PostHog. 
+Get information about revenue and payments from Stripe, into PostHog. 
 
 Once revenue information is in PostHog, you can analyze it just like any other PostHog event using insights and dashboards. 
 
@@ -21,7 +21,7 @@ Once revenue information is in PostHog, you can analyze it just like any other P
 
 ## Requirements
 
-The Stripe Connector requires either PostHog Cloud, or a self-hosted PostHog instance running [version 1.30.0](https://posthog.com/blog/the-posthog-array-1-30-0) or later.
+This requires either PostHog Cloud, or a self-hosted PostHog instance running [version 1.30.0](https://posthog.com/blog/the-posthog-array-1-30-0) or later.
 
 Not running 1.30.0? Find out [how to update your self-hosted PostHog deployment](https://posthog.com/docs/runbook/upgrading-posthog)!
 
@@ -29,7 +29,7 @@ Not running 1.30.0? Find out [how to update your self-hosted PostHog deployment]
 
 ### Is the source code for this app available?
 
-PostHog is open-source and so are all apps on the platform. The [source code for the Stripe Connector](https://github.com/posthog/stripe-plugin) is available on GitHub.
+PostHog is open-source and so are all apps on the platform. The [source code](https://github.com/posthog/stripe-plugin) is available on GitHub.
 
 ### Who created this app?
 
